@@ -1,2 +1,0 @@
-# promodeal.github.io
-promode
